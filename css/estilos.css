@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+.card-header {
+    background-color: #007bff;
+    border-bottom: none;
+    color: #fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.card-body {
+    padding: 20px;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.resultado {
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
